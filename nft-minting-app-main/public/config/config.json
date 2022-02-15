@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8d3d51d5d665aeC6A810b84E09fC2E062f3B2C23",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8d3d51d5d665aeC6A810b84E09fC2E062f3B2C23",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Above Average Eyes NFTs",
+  "SYMBOL": "AANFT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/above-average-eye-nfts-v2",
+  "SHOW_BACKGROUND": true
+}
